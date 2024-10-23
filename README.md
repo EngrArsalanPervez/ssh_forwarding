@@ -35,5 +35,4 @@ telnet localhost 3000
 
 # On localhost terminal
 ssh server@localhost -p 3000
-```# ssh_forwarding
-SSH Forwarding
+```
